@@ -2,7 +2,7 @@
 # example: if you import some of functions, note no brackets after name, like here:
 #     from gc_utils import sigmoid, relu, dictionary_to_vector
 
-# Optional:
+# Optional (I assume numpy and pandas are already imported):
 # import numpy as np
 # import pandas as pd
 
