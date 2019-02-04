@@ -22,3 +22,21 @@ def df_basic_info(df):
     print()
     return
     
+# Summary Statistics
+def df_summary_stat(df):
+    df.sum() #Sum of values
+    print()
+    df.cumsum() #Cummulative sum of values
+    print()
+    df.min()/df.max() #Minimum/maximum values
+    print()
+    df.idxmin()/df.idxmax() #Minimum/Maximum index value
+    print()
+    df.describe() #Summary statistics
+    print()
+    df.mean() #Mean of values
+    print()
+    df.median() #Median of values
+    print()
+    return
+    
