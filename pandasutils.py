@@ -1,6 +1,8 @@
-# copy to your .ipynb notebook: from pandasutils import *
+# copy to your .ipynb notebook: 
+# from pandasutils import *
+
 # example: if you import some of functions, note no brackets after name, like here:
-#     from gc_utils import sigmoid, relu, dictionary_to_vector
+# from gc_utils import sigmoid, relu, dictionary_to_vector
 
 # Optional (I assume numpy and pandas are already imported):
 # import numpy as np
